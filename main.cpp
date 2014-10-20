@@ -1,6 +1,5 @@
+#include <iostream>
 #include "Par.h"
-#include#include <iostream>
-#include "20141020cab.h"
 
 using namespace std; <iostream>
 #include "20141020cab.h"
